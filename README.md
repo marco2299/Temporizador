@@ -18,3 +18,4 @@ EX:
   ---> Filme de duração 01h:54min
   -->  o usuario deve digitar para o programa assim : 1.54
 Após isso, basta preparar sua pipoquinha e assistir sem medo de dormir com o PC ligado. :)
+![img4](https://user-images.githubusercontent.com/88465561/210899791-0045fefd-743d-4e82-a920-9b65e49490d0.png)

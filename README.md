@@ -24,10 +24,13 @@ Veja um exemplo do software em ação:
 ![img4](https://user-images.githubusercontent.com/88465561/210899791-0045fefd-743d-4e82-a920-9b65e49490d0.png)
 
 Após definir, o windows exibirá esta seguinte mensagem:
+
 ![img3](https://user-images.githubusercontent.com/88465561/210899950-c1a7bfa3-cd25-469b-93f5-9b85c0fc5963.png)
 
 E para cancelar?
+
 ![img2](https://user-images.githubusercontent.com/88465561/210899974-6fd639e0-c9bb-41c4-bb10-6a7f5ce956f6.png)
 
 Prontinho! Agora o windows exibira esta ultima mensagem:
+
 ![img1](https://user-images.githubusercontent.com/88465561/210900015-a69aa3f6-503f-4718-b7a4-4cacfa521a1a.png)
